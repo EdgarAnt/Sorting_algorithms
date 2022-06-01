@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1635141794 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\lista.cpp
+	"lista.h"
+	"Producto.h"
+	<iostream>
+
+1635141794 c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\lista.h
+	"Nodo.h"
+	"Producto.h"
+
+1635135065 c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\nodo.h
+	<iostream>
+	"Producto.h"
+
+1635135065 c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\producto.h
+	<iostream>
+
+1635141851 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\main.cpp
+	<iostream>
+	<stdio.h>
+	"lista.h"
+	"Producto.h"
+
+1635134319 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\nodo.cpp
+	"Nodo.h"
+
+1635134319 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ordenamientosss\producto.cpp
+	"Producto.h"
+
